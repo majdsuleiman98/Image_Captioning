@@ -1,5 +1,5 @@
-<p align="justify">
-### Image Captioning Project
+
+# Image Captioning Project
 
 In this project, I explored various deep learning architectures to address the image captioning problem, achieving promising results across different models.
 
@@ -16,4 +16,4 @@ In the realm of image captioning, the Transformer-based Encoder-Decoder architec
 
 ### 1.4. Architecture: Attention with Encoder-Decoder
 The "Attention with Encoder-Decoder" architecture has gained significant traction in Natural Language Processing (NLP) due to its ability to improve performance through Attention mechanisms. In this architecture, as each word in the caption is generated, the Attention model focuses on the most relevant parts of the image corresponding to that word. This targeted focus allows the model to produce more precise and contextually appropriate captions, making it a powerful approach for image captioning tasks.
-</p>
+
